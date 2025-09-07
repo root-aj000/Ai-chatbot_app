@@ -1,3 +1,4 @@
+'''
 saas-chatbot/
 ├─ .env.example
 ├─ .gitignore
@@ -98,3 +99,5 @@ saas-chatbot/
    └─ types/
       ├─ next-auth.d.ts
       └─ index.ts
+
+'''
